@@ -1,5 +1,5 @@
 ---
-id: typescript-quick-start
+id: part-3-typescript-quick-start
 title: TypeScript Quick Start
 sidebar_label: TypeScript Quick Start
 ---

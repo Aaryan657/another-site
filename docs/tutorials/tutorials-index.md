@@ -1,5 +1,5 @@
 ---
-id: tutorials-index
+id: part-1-tutorials-index
 slug: index
 title: 'Redux Tutorials Index'
 sidebar_label: 'Tutorials Index'

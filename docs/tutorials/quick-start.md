@@ -1,5 +1,5 @@
 ---
-id: quick-start
+id: part-2-quick-start
 title: Quick Start
 sidebar_label: Quick Start
 ---

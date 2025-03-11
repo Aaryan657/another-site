@@ -1,5 +1,5 @@
 ---
-id: videos
+id: part-6-videos
 title: 'Videos'
 sidebar_label: 'Videos'
 hide_title: true
