@@ -104,8 +104,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Api',
-                to: 'docs/api/store',
+                label: 'API',
+                to: 'docs/API%20Reference/api-reference',
               },
             ],
           },
