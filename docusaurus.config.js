@@ -94,7 +94,7 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
-          {to: '/docs/Usage%20Guide/Setup%20and%20Organization/Configure%20your%20store', label: 'Know more', position: 'left'},
+          {to: '/docs/Introduction/', label: 'Know more', position: 'left'},
         ],
       },
       footer: {
