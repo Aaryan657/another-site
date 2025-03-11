@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: About Us
-authors: [slorber, yangshun]
+authors: [slorber, Aaryan Rao]
 tags: [facebook, hello, docusaurus]
 ---
 
