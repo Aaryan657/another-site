@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Redux',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'A JS library for predictable and maintainable global state management',
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
