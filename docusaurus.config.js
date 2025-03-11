@@ -76,7 +76,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Redux',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -94,6 +94,7 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {to: '/docs/Usage%20Guide/Setup%20and%20Organization/Configure%20your%20store', label: 'Know more', position: 'left'},
         ],
       },
       footer: {
